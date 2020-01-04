@@ -1,0 +1,2 @@
+language = "csharp"
+run = "Mono C# compiler version 4.6.2.0"

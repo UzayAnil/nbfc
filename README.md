@@ -1,5 +1,5 @@
 ![NoteBook FanControl](https://github.com/hirschmann/nbfc/wiki/images/banner.png)
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/nbfc)](https://repl.it/github/UzayAnil/nbfc)
 NBFC is a cross-platform fan control service for notebooks.
 It comes with a powerful configuration system, which allows to adjust it to many different notebook models.
 
